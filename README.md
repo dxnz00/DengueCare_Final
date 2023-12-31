@@ -11,6 +11,8 @@ Nama Anggota:
 Job Desc:
 Anggota 1:
  - Membuat informasi
+ - Melakukan Testing
+ - Mengatur dan menetapkan target project
    
 Anggota 2:
  - Membuat homepage
